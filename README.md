@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jubaerahamedbd
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning MERS Stack
+- 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
